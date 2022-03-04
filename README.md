@@ -34,6 +34,10 @@ Read MDN and documents about JS etc.
 
 Objects in Javascript are not  the same thing is objects in some other languages(ool)
 
+
+
+
+
 <mark> var arr=[1,true,0]</mark><br>
 objects have key and property values (Javascript Object Notation)
 
@@ -73,3 +77,26 @@ var a=true
 
 When we talk about manipulating data we must talk about built-in method Math.<br>
 it has methods like math.round()
+
+------
+
+
+
+## Loops 
+
+<pre>
+var counter = 0;
+var arr=[true,"wookie",42,0]
+for(var i=0,i<arrlength,i++){
+counter +=
+}
+return counter;
+</pre>
+
+
+----
+
+
+
+## Regular Expressions
+
