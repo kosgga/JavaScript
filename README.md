@@ -94,9 +94,7 @@ return counter;
 </pre>
 
 
-----
-
-
-
-## Regular Expressions
+## Regular expressions
+***RegExp***
+With Regular expressions we can do match replace, search and split strings
 
